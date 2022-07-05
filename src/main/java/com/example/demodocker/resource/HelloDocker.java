@@ -10,6 +10,6 @@ public class HelloDocker {
 
     @GetMapping
     public  String  hello(){
-        return "Hello Docker";
+        return "Hello Docker:)";
     }
 }
