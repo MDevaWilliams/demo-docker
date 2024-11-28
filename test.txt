@@ -1,1 +1,1 @@
-sample 112
+sample 112 56 
